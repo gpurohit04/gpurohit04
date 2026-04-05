@@ -20,7 +20,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gpurohit04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Gunjan's GitHub Stats" />
+  [![Gunjan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gpurohit04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/gpurohit04)
 </p>
 
 ---

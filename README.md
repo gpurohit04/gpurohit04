@@ -20,9 +20,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  [![Gunjan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gpurohit04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/gpurohit04)
+  <img src="https://streak-stats.demolab.com?user=gpurohit04&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
-
 ---
 
 ### 🔗 Let's Connect
